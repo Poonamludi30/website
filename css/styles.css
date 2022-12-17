@@ -1,0 +1,21 @@
+body
+{
+    background-color:aliceblue; 
+}
+hr
+{
+    background-color: aliceblue;
+    border-color: grey;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    width:10%;
+}
+h1
+{
+    color: mediumturquoise;
+}
+h3
+{
+    color: mediumturquoise;
+}
